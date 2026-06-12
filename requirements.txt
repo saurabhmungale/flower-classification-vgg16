@@ -1,0 +1,9 @@
+tensorflow==2.x.x
+keras
+numpy
+pandas
+opencv-python
+matplotlib
+seaborn
+scikit-learn
+tqdm
