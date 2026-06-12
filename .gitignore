@@ -1,0 +1,16 @@
+# Model files (too large for GitHub)
+*.keras
+*.h5
+*.pkl
+
+# Dataset (never push raw image data)
+flower_photos/
+datasets/
+
+# Python cache
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Colab/Jupyter
+.virtual_documents/
